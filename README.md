@@ -35,7 +35,20 @@ This part introduce features of the website including:
 
 `rating feature:`: User are allowed to rate books
 
-###
+### Login Feature
+
+`mọi người thêm ảnh và mô tả ở đây`
+
+### Searching feature
+
+`mọi người thêm ảnh và mô tả ở đây`
+
+### Rating feature
+
+`mọi người thêm ảnh và mô tả ở đây`
+
+
+
 
 ### Rails console
 
